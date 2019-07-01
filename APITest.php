@@ -1,5 +1,5 @@
 <?php
-require '../vendor/autoload.php'; // include Composer's autoloader
+require 'vendor/autoload.php'; // include Composer's autoloader
 
 $api = $argv[1];
 
